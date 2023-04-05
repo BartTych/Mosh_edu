@@ -1,3 +1,4 @@
 Nowa linia
-test
-Predator 
+Usuniecie bledu
+=====
+Predatorr 
