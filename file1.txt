@@ -1,4 +1,9 @@
 Nowa linia
+<<<<<<< Updated upstream
 Usuniecie bledu
 =====
 Predatorr 
+=======
+test^3
+Predator 
+>>>>>>> Stashed changes
