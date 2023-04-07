@@ -13,3 +13,4 @@ test^3
 Predator 
 >>>>>>> Stashed changes
 krokodyl
+test
